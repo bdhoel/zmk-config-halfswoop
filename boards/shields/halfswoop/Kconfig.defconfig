@@ -3,4 +3,4 @@ if SHIELD_HALFSWOOP
 config ZMK_KEYBOARD_NAME
     default "halfswoop"
 
-endf
+endif
